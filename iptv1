@@ -1,0 +1,548 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", 24 KANAL
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0352:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Al Jazeera English
+http://r45.dtv.invitel.net:40124/udp/239.1.1.064:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", AMC
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0175:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", AMC HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0372:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ATV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0374:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ATV Spirit HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.68:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Al Jazeera English
+http://r45.dtv.invitel.net:40124/udp/239.1.1.064:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", AMC
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0175:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", AMC HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0372:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ATV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0374:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", BonumTV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0120:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Boomerang Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.1.035:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", BRAZZERS TV SD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0100:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Cartoon Network
+http://r45.dtv.invitel.net:40124/udp/239.1.1.052:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Cinemax
+http://r45.dtv.invitel.net:40124/udp/239.1.1.030:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Cinemax2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.031:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", CNN International
+http://r45.dtv.invitel.net:40124/udp/239.1.1.060:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Comedy Central
+http://r45.dtv.invitel.net:40124/udp/239.1.1.020:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Comedy Central Family
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0161:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Cool HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0322:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Cool TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0267:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", CSABA TV Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.3.20:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Da Vinci
+http://r45.dtv.invitel.net:40124/udp/239.1.1.046:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Del TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.59:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Deutsche Welle
+http://r45.dtv.invitel.net:40124/udp/239.1.1.025:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Animal World
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0133:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Animal World HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0331:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Animal World HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0121:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Film
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0136:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Life HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0332:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Life HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0122:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.076:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 1 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0235:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 1 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0264:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0132:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.072:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.075:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 3
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0144:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 3 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0363:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI Sport 3 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0370:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI World
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0135:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DIGI World HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0123:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Discovery Channel
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0273:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Discovery Science
+http://r45.dtv.invitel.net:40124/udp/239.1.1.073:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Discovery Showcase HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0142:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DTX
+http://r45.dtv.invitel.net:40124/udp/239.1.1.071:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", DUCK TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.027:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Duna
+http://r45.dtv.invitel.net:40124/udp/239.1.1.065:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Duna HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0224:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Duna World
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0154:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Euronews
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0265:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Eurosport 1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.056:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Eurosport 1 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0300:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Eurosport 2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.057:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Eurosport 2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0250:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Extreme Sports Channel
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0167:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FEM3
+http://r45.dtv.invitel.net:40124/udp/239.1.3.26:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Film Café
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0220:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Film Mánia
+http://r45.dtv.invitel.net:40124/udp/239.1.1.036:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Film+
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0271:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Film+ HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.37:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Film4
+http://r45.dtv.invitel.net:40124/udp/239.1.3.63:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FilmBox
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0221:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FilmBox Extra HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0241:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FilmBox Family
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0240:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FilmBox Plus
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0237:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FilmBox Premium
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0177:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Fine Living
+http://r45.dtv.invitel.net:40124/udp/239.1.3.35:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Fishing&amp;Hunting
+http://r45.dtv.invitel.net:40124/udp/239.1.3.04:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", FIT HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.006:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Food Network
+http://r45.dtv.invitel.net:40124/udp/239.1.3.29:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Galaxy
+http://r45.dtv.invitel.net:40124/udp/239.1.1.077:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", GYongyosi TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0126:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", hatoscsatorna
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0201:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Havoc Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0225:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HBO
+http://r45.dtv.invitel.net:40124/udp/239.1.3.21:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HBO HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0232:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HBO2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.032:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HBO3
+http://r45.dtv.invitel.net:40124/udp/239.1.1.041:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HISTORY
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0244:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", History HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0145:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Humor+
+http://r45.dtv.invitel.net:40124/udp/239.1.3.23:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", HUSTLER TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0247:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Hír TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0203:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ID
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0366:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", JCTV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0262:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", JimJam
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0166:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", JockyTV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.033:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", KIKA
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0356:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Kiwi TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.25:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", KOROS HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0172:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Kurca TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.11:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", LifeTv
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0147:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0114:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M1 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0230:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M2/Petõfi
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0260:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M2/Petõfi HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0231:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M4
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0343:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", M5
+http://r45.dtv.invitel.net:40124/udp/239.1.3.02:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Megamax
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0173:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Minimax
+http://r45.dtv.invitel.net:40124/udp/239.1.1.040:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Mozi+
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0176:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Mozi+ HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.50:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Moziverzum
+http://r45.dtv.invitel.net:40124/udp/239.1.3.034:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", MTV Hits
+http://r45.dtv.invitel.net:40124/udp/239.1.1.022:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", MTV Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.1.053:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", MTV Live HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0252:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", MTV Rocks
+http://r45.dtv.invitel.net:40124/udp/239.1.1.023:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Muzsika TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0171:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nat Geo HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0261:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nat Geo Wild
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0105:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nat Geo Wild HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0305:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", National Geographic
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0127:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nick Jr
+http://r45.dtv.invitel.net:40124/udp/239.1.1.042:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nickelodeon
+http://r45.dtv.invitel.net:40124/udp/239.1.1.061:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nickelodeon HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0254:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ORANGE TV SLOVAK&quot;
+https://www.satelity.ellano.sk/image/stiahnut.jpg
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", OzoneTv
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0146:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Paramount Channel
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0111:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", PLAYBOY TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0104:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Polonia
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0354:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Prime
+http://r45.dtv.invitel.net:40124/udp/239.1.1.047:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Private TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0103:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", PRO7
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0357:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", PUSKAS TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.01:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Rai Uno
+http://r45.dtv.invitel.net:40124/udp/239.1.1.063:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", ROMANIA TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0361:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL
+http://r45.dtv.invitel.net:40124/udp/239.1.1.012:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL Gold
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0207:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL II
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0212:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL II HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.39:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL Klub
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0115:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL Klub HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.38:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL Spike
+http://r45.dtv.invitel.net:40124/udp/239.1.1.026:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL Spike
+http://r45.dtv.invitel.net:40124/udp/239.1.3.12:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTL+
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0211:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", RTR-Planeta
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0355:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Russia Today
+http://r45.dtv.invitel.net:40124/udp/239.1.1.066:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", SAT.1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.013:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sláger TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0140:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", SOMOGY TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.55:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sony Max
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0112:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sony Movie Channel
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0113:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sorozat+
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0213:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spektrum
+http://r45.dtv.invitel.net:40124/udp/239.1.1.034:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spektrum HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0272:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spektrum Home
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0306:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sport1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.014:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sport1 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0226:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sport2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.015:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Sport2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0131:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spíler1 TV
+http://r45.dtv.invitel.net:40124/udp/239.1.3.07:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spíler1 TV HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.10:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spíler2 TV HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.65:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spíler2 TV SD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.64:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", STORY4
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0150:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Super TV2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0162:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Super TV2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0205:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", SUPERONE HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0307:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", SZENTES TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0215:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TLC
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0174:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TRACE TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0157:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Travel Channel
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0217:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Travel Channel HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0303:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV BALATON TV
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0362:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV Paprika
+http://r45.dtv.invitel.net:40124/udp/239.1.1.010:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV2
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0116:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV2 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0245:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV4
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0200:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TV7 Televízió
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0367:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TVE
+http://r45.dtv.invitel.net:40124/udp/239.1.1.045:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VH1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0156:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VH1
+http://r45.dtv.invitel.net:40124/udp/239.1.1.054:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VIASAT 3 HD
+http://r45.dtv.invitel.net:40124/udp/239.1.3.67:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Viasat Explore
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0347:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Viasat Nature
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0351:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Viasat Nature/History HD
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0350:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VIASAT3
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0152:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VIASAT6
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0153:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VTV Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.1.051:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", VTV SZEGED Hungary
+http://r45.dtv.invitel.net:40124/udp/239.1.1.0163:5000?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Zenebutik
+http://r45.dtv.invitel.net:40124/udp/239.1.3.22:5000?
+
